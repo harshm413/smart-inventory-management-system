@@ -1,0 +1,112 @@
+product_id,product_name,category,brand,unit_cost,selling_price,supplier_id,shelf_life_days,min_order_quantity
+P001,Mama Chicken Noodle,Food,Mama,350,500,S003,180,100
+P002,Mama Shrimp Noodle,Food,Mama,350,450,S003,120,120
+P003,Yum Yum Seafood Noodle,Food,Yum Yum,330,550,S009,90,200
+P004,Premier Coffee Mix,Food,Premier,180,250,S012,180,100
+P006,Royal Myanmar Tea Mix,Food,Royal Myanmar,140,200,S015,120,100
+P007,Paw San Hmwe Rice 5kg,Food,Local Rice,16000,22450,S002,120,120
+P008,Cooking Oil 1L,Food,Meizan,4200,5650,S013,90,120
+P009,Fish Sauce 700ml,Food,Ngant Pya Yay,1100,1500,S007,120,120
+P010,Instant Vermicelli,Food,Wai Wai,450,700,S005,365,200
+P011,Peanut Snack,Food,Shwe Pu Zun,500,700,S019,120,120
+P013,Cream Biscuit,Food,Julie,700,1150,S003,120,200
+P014,Condensed Milk,Food,Dairy Champ,1800,2800,S006,90,100
+P015,Canned Sardine,Food,Ayam,2200,3450,S013,365,50
+P016,Sugar 1kg,Food,Local,2400,3350,S018,365,120
+P017,Salt 500g,Food,Local,500,800,S018,90,50
+P018,Chili Powder 100g,Food,Local,900,1400,S010,180,50
+P019,Bean Vermicelli,Food,Pine,850,1200,S009,365,50
+P020,Dried Tea Leaves,Food,Laphet,2500,4100,S010,120,50
+P021,Tamarind Paste,Food,Local,1200,1900,S012,120,100
+P022,Pickled Tea Leaf Pack,Food,Yuzana,1500,2350,S016,90,120
+P023,Egg Noodle Pack,Food,Local,600,750,S008,180,120
+P024,Corn Snack,Food,Mamee,450,550,S016,90,50
+P025,Butter Cookie Pack,Food,Danish,2500,3950,S016,120,100
+P026,Alpine Water 1L,Drinks,Alpine,400,650,S017,180,72
+P027,Alpine Water 500ml,Drinks,Alpine,250,400,S018,365,48
+P028,Coca-Cola Can,Drinks,Coca-Cola,850,1300,S010,540,48
+P029,Sprite Bottle 500ml,Drinks,Sprite,700,1000,S015,540,72
+P030,Red Bull Can,Drinks,Red Bull,900,1450,S008,365,24
+P031,Sponsor Energy Drink,Drinks,Sponsor,800,1050,S019,365,24
+P032,M-150 Bottle,Drinks,M-150,750,1100,S001,540,48
+P033,Ovaltine UHT,Drinks,Ovaltine,1000,1300,S008,540,24
+P034,Milo Sachet,Drinks,Milo,250,300,S003,180,72
+P035,Tea Leaf Drink,Drinks,Pokka,850,1250,S007,365,120
+P036,Orange Juice Box,Drinks,Tipco,1200,1750,S008,540,120
+P037,Milk Tea Bottle,Drinks,Royal-D,900,1400,S004,365,48
+P039,Sunkist Orange Can,Drinks,Sunkist,900,1250,S004,540,24
+P040,Coffee Can,Drinks,Birdy,1000,1250,S004,540,72
+P041,Green Tea Bottle,Drinks,Oishi,900,1200,S005,180,120
+P042,Yogurt Drink,Drinks,Dutch Mill,700,1000,S008,365,120
+P043,Mineral Water 1.5L,Drinks,Alpine,550,900,S018,180,120
+P044,Lime Soda Can,Drinks,Schweppes,950,1200,S003,540,24
+P045,Chocolate Milk,Drinks,Dutch Mill,800,1300,S014,180,48
+P046,Sunlight Dishwashing Liquid,Household,Sunlight,2200,3200,S002,720,48
+P047,Fairy Detergent Powder,Household,Fairy,2500,3300,S009,720,48
+P048,Washing Powder 1kg,Household,Omo,3500,5650,S014,900,24
+P049,Toilet Cleaner,Household,Duck,2800,4300,S005,9999,48
+P050,Floor Cleaner 1L,Household,Magiclean,3200,4250,S019,720,10
+P051,Tissue Roll Pack,Household,Clean,2500,3850,S002,720,24
+P052,Mosquito Coil,Household,Baygon,1200,1500,S002,900,12
+P053,Air Freshener,Household,Glade,3800,6200,S003,720,12
+P054,Garbage Bag Roll,Household,Local,1800,2700,S013,9999,12
+P055,Dish Sponge Pack,Household,Scotch-Brite,1200,1550,S019,9999,12
+P056,Laundry Soap,Household,Shwe Wah,700,1050,S014,9999,10
+P057,Bleach Bottle,Household,Clorox,3000,4550,S009,9999,24
+P058,Glass Cleaner,Household,Windex,3500,4650,S008,9999,24
+P059,Plastic Food Wrap,Household,Local,1500,2050,S015,720,24
+P060,Aluminum Foil,Household,Local,2200,3050,S015,720,10
+P061,Hand Wash Refill,Household,Lifebuoy,2400,3600,S003,9999,10
+P062,Insect Spray,Household,Baygon,4500,6600,S005,9999,24
+P063,Cleaning Brush,Household,Local,1600,2600,S012,720,12
+P065,Kitchen Towel Roll,Household,Clean,1800,2950,S018,9999,10
+P066,Shwe Pyi Nann Thanakha,Personal Care,Shwe Pyi Nann,1800,2450,S005,720,12
+P067,Colgate Toothpaste,Personal Care,Colgate,1800,2450,S018,365,48
+P068,Closeup Toothpaste,Personal Care,Closeup,1700,2250,S007,540,48
+P069,Lifebuoy Soap,Personal Care,Lifebuoy,800,1250,S009,365,48
+P070,Dove Soap,Personal Care,Dove,1500,2200,S003,540,12
+P072,Sunsilk Shampoo Sachet,Personal Care,Sunsilk,220,300,S009,365,48
+P073,Head & Shoulders Sachet,Personal Care,Head & Shoulders,300,400,S014,540,48
+P074,Nivea Body Lotion,Personal Care,Nivea,5500,8100,S005,365,12
+P075,Vaseline Lotion,Personal Care,Vaseline,5200,7650,S018,540,48
+P076,Toothbrush,Personal Care,Oral-B,1200,1550,S010,365,12
+P077,Baby Powder,Personal Care,Johnson,3200,4450,S007,365,24
+P078,Sanitary Pad Pack,Personal Care,Modess,2500,3800,S012,720,12
+P079,Face Mask Pack,Personal Care,Local,1000,1550,S005,540,48
+P080,Hand Sanitizer,Personal Care,Dettol,2800,4550,S006,365,12
+P081,Cotton Buds,Personal Care,Local,800,1300,S011,365,12
+P082,Hair Gel,Personal Care,Gatsby,3500,5450,S008,540,48
+P083,Deodorant Roll-On,Personal Care,Nivea,4800,6500,S013,720,12
+P084,Lip Balm,Personal Care,Vaseline,2200,3500,S007,540,12
+P085,Face Wash,Personal Care,Ponds,4500,7100,S010,540,24
+P086,Double A A4 Paper,Stationery,Double A,9000,14200,S008,9999,20
+P087,Blue Pen,Stationery,Zebra,300,400,S013,9999,20
+P089,Pencil HB,Stationery,Faber-Castell,250,350,S018,9999,100
+P090,Eraser,Stationery,Faber-Castell,300,400,S004,9999,10
+P091,Notebook Small,Stationery,Local,700,1100,S006,9999,50
+P092,Notebook Large,Stationery,Local,1200,1800,S002,9999,50
+P093,Glue Stick,Stationery,UHU,900,1150,S012,9999,100
+P094,Correction Tape,Stationery,Tombow,1500,2300,S014,9999,50
+P096,Stapler,Stationery,Kangaro,3500,5650,S009,9999,20
+P097,Staple Pins,Stationery,Kangaro,700,900,S001,9999,100
+P098,File Folder,Stationery,Local,600,850,S012,9999,20
+P100,Marker Pen,Stationery,Artline,900,1250,S010,9999,10
+P101,Dish Cloth 101,Stationery,Value,2500,3500,S010,9999,20
+P102,Herbal Soap 102,Drinks,Value,2500,3900,S006,9999,50
+P103,Herbal Soap 103,Household,Local,1500,2100,S007,720,50
+P104,School Ruler 104,Stationery,Value,1000,1450,S007,9999,48
+P106,Dish Cloth 106,Drinks,Shwe,500,650,S002,180,48
+P107,Myanmar Tea Sachet 107,Stationery,Value,1000,1650,S019,180,100
+P108,Flavored Soda 108,Personal Care,Shwe,1000,1300,S001,90,48
+P109,Rice Cracker 109,Drinks,Family,4000,5850,S018,180,10
+P110,Rice Cracker 110,Personal Care,Value,4000,6200,S018,9999,24
+P111,Instant Soup Cup 111,Personal Care,Family,4000,5750,S018,720,20
+P112,Flavored Soda 112,Personal Care,Shwe,800,1300,S009,9999,48
+P113,Dish Cloth 113,Drinks,Local,1000,1550,S008,365,24
+P114,Ready Tea Bottle 114,Household,Shwe,300,400,S013,180,100
+P115,Myanmar Tea Sachet 115,Drinks,Value,1000,1400,S015,720,10
+P116,Herbal Soap 116,Drinks,Family,1000,1700,S001,9999,48
+P117,Local Snack Pack 117,Personal Care,Royal,800,1250,S014,9999,100
+P118,Instant Soup Cup 118,Stationery,Value,500,650,S014,720,10
+P119,School Ruler 119,Personal Care,Value,2500,3950,S015,180,50
+P120,Local Snack Pack 120,Stationery,Family,1000,1500,S001,90,100

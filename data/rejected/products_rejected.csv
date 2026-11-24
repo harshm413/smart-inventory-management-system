@@ -1,0 +1,10 @@
+product_id,product_name,category,brand,unit_cost,selling_price,supplier_id,shelf_life_days,min_order_quantity,rejection_reason
+P005,ABC Coffee Mix,Food,ABC,160,200,S020,180,50,supplier_id does not exist in suppliers.csv
+P012,Potato Chips,food,Jack n Jill,900,1300,S008,365,120,category has inconsistent or invalid spelling
+P038,Sparkling Water,food,Singha,800,1050,S014,365,72,category has inconsistent or invalid spelling
+P064,Paper Napkin Pack,Household,Clean,1000,1350,S020,900,24,supplier_id does not exist in suppliers.csv
+P071,Clear Shampoo Sachet,PersonalCare,Clear,250,400,S001,540,12,category has inconsistent or invalid spelling
+P088,Black Pen,PersonalCare,Zebra,300,400,S009,9999,10,category has inconsistent or invalid spelling
+P095,Highlighter,stationery,Stabilo,1200,1800,S013,9999,10,category has inconsistent or invalid spelling
+P099,Envelope Pack,Stationery,Local,1000,1400,S020,9999,50,supplier_id does not exist in suppliers.csv
+P105,Myanmar Tea Sachet 105,Drinks,Family,800,1250,S020,365,10,supplier_id does not exist in suppliers.csv

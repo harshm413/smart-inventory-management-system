@@ -1,0 +1,2 @@
+supplier_id,supplier_name,contact_phone,city,lead_time_days,minimum_order_value,rejection_reason
+S020,Regional Convenience Supply,9716753883,Naypyidaw,,100000,lead_time_days must be greater than 0

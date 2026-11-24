@@ -1,0 +1,21 @@
+supplier_id,supplier_name,contact_phone,city,lead_time_days,minimum_order_value
+S001,Yangon FMCG Distributor,09785822412,Yangon,3.0,100000
+S002,Beverage Wholesale Myanmar,09799529223,Yangon,6.0,150000
+S003,Mandalay Food Supply,09729958838,Mandalay,4.0,500000
+S004,Shwe Household Trading,09713756669,Yangon,12.0,500000
+S005,Personal Care Distributor,09773197857,Yangon,3.0,300000
+S006,Stationery World Myanmar,09756629388,Yangon,2.0,100000
+S007,Ayeyar Rice Supplier,09712575562,Pathein,5.0,150000
+S008,Upper Myanmar Wholesale,09767827638,Mandalay,11.0,100000
+S009,Naypyidaw Retail Supply,09775329037,Naypyidaw,5.0,500000
+S010,Bago Snack Distributor,09787226012,Bago,13.0,300000
+S011,Myanmar Dairy Distribution,09756306997,Yangon,5.0,250000
+S012,Cleaning Goods Partner,09779089901,Mandalay,6.0,100000
+S013,Local Tea Mix Supplier,09721429110,Taunggyi,13.0,250000
+S014,Imported Goods Myanmar,09745667651,Yangon,6.0,150000
+S015,Toy and Stationery Center,09728898923,Yangon,14.0,200000
+S016,Health and Beauty Supply,09713718431,Mawlamyine,3.0,250000
+S017,Dry Food Wholesale,09712981052,Monywa,7.0,200000
+S018,Beverage City Trading,09781030736,Mandalay,6.0,100000
+S019,Small Grocery Supplier,09797942942,Yangon,9.0,300000
+S020,Regional Convenience Supply,09716753883,Naypyidaw,,100000
